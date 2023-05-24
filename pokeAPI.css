@@ -1,0 +1,4 @@
+#pokeBox{
+    display: flex;
+    flex-flow: row wrap;
+}
